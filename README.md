@@ -11,6 +11,9 @@ A serverless full-stack Event RSVP Management System built on AWS that allows us
 *   **Tools:** Postman
 
 ## ⚙️ How It Works
+
+<img width="1423" height="663" alt="Screenshot 2026-06-13 at 2 01 03 PM" src="https://github.com/user-attachments/assets/85ef9591-d8e7-4dd5-9f68-eb1e636d481d" />
+
 1.  **Frontend Delivery:** The user interface is built using HTML, CSS, and JavaScript, hosted on Amazon S3, and delivered quickly via Amazon CloudFront (CDN).
 2.  **API Routing:** User requests are routed through Amazon API Gateway, which exposes secure REST API endpoints.
 3.  **Backend Processing:** The API Gateway invokes an AWS Lambda function that acts as the core backend service.
@@ -27,3 +30,8 @@ A serverless full-stack Event RSVP Management System built on AWS that allows us
 *   **Serverless Architecture:** Highly scalable and cost-efficient backend using AWS Lambda and API Gateway.
 *   **Hybrid Database Model:** Seamless integration of both SQL (RDS) and NoSQL (DynamoDB) databases.
 *   **Optimized Delivery:** Static website hosting with S3 and global content delivery via CloudFront with Cross-Origin Resource Sharing (CORS) support.
+
+## Video
+
+https://github.com/user-attachments/assets/57ed8310-7867-4988-b409-125b2a819e05
+
