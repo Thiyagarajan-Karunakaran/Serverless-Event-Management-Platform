@@ -1,4 +1,4 @@
-# Serverless-Event-Management-Platform
+# Serverless Event Management Platform
 
 ## 📖 Introduction
 A serverless full-stack Event RSVP Management System built on AWS that allows users to browse events, view event details, and submit RSVP responses. The application leverages scalable AWS services to provide robust backend APIs, relational and NoSQL databases, static website hosting, and fast content delivery through a CDN.
